@@ -1,0 +1,86 @@
+{
+  "data": [
+    {
+      "id": "demoserver",
+      "name": "DemoServer",
+      "createdAt": "2024-12-01T04:18:19Z",
+      "url": "https://waqar-ahmed48.github.io/demoserver/",
+      "description": "IaC Service which allows developers to showcase their AWS cloud projects effectively utilizing free tier accounts.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "goLang",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "ru.le",
+      "name": "Ru.Le",
+      "createdAt": "2022-12-01T20:41:33Z",
+      "url": "https://waqar-ahmed48.github.io/ru.le/",
+      "description": "No code ETL as a Service: It allows users to automate daily tasks based on information received in emails",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "transactions",
+      "name": "Transactions",
+      "createdAt": "2023-01-01T20:41:33Z",
+      "url": "https://waqar-ahmed48.github.io/transactions.project/",
+      "description": "Python based containerized application to extract personal transactions through gmail based email notifications and automatically enter them into EveryDollar (www.everydollar.com) budgeting app.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    },
+    {
+      "id": "xos",
+      "name": "XOS",
+      "createdAt": "2002-01-01T16:26:54Z",
+      "url": "",
+      "description": "It was a 32 Bit Protected mode Operating developed in C and Assembly For Intel Platform. It handles preemptive multitasking, resource sharing, all range of Processor Exceptions, Memory Segmentation Model and IO. Implementation and architecture of all the aforementioned issues are inspired from design principles of Exokernel Architecture. Implementation and design issues have been discussed in the paper “Multiple Guest Operating System Under Exokernel”.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C",
+          "iconifyClass": "logos-C"
+        }
+      ]
+    },
+    {
+      "id": "gsm_0705",
+      "name": "GSM 0705 Protocol Library",
+      "createdAt": "2023-01-11T14:50:20Z",
+      "url": "",
+      "description": "It was a Java based implementation of ETSI’s standard GSM 0705. It was developed as a base protocol library for java based SMS applications.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        }
+      ]
+    }
+  ]
+}
