@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Muhammad's Portfolio",
   description:
-    "Passionate about delivering innovative, cloud-based solutions that align technical and business goals for impactful results",
+    "Passionnate about delivering innovative, cloud-based solutions that align technical and business goals for impactful results",
   og: {
     title: "Muhammad W. Ahmed Portfolio",
     type: "website",

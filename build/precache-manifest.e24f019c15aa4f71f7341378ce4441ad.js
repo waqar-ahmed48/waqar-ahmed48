@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d15951481a1bb624af273979f0544068",
+    "revision": "9e106b5697582042c471dbd294028414",
     "url": "https://waqar-ahmed48.github.io/waqar-ahmed48/index.html"
   },
   {
-    "revision": "20fc16b1148130bc9094",
+    "revision": "d9807327292c368acf0c",
     "url": "https://waqar-ahmed48.github.io/waqar-ahmed48/static/css/main.27be14fa.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://waqar-ahmed48.github.io/waqar-ahmed48/static/js/2.9d218da2.chunk.js"
   },
   {
-    "revision": "20fc16b1148130bc9094",
-    "url": "https://waqar-ahmed48.github.io/waqar-ahmed48/static/js/main.8e269137.chunk.js"
+    "revision": "d9807327292c368acf0c",
+    "url": "https://waqar-ahmed48.github.io/waqar-ahmed48/static/js/main.9d3b97d2.chunk.js"
   },
   {
     "revision": "d99030085fee41ff4639",
