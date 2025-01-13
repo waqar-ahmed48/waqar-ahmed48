@@ -19,8 +19,8 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Muhammad Ahmed",
-  logo_name: "Muhammad Ahmed",
+  title: "Muhammad W. Ahmed",
+  logo_name: "Muhammad W. Ahmed",
   nickname: "Muhammad",
   subTitle:
     "Passionate about delivering innovative, cloud-based solutions that align technical and business goals for impactful results",
@@ -33,8 +33,8 @@ const greeting = {
 const socialMediaLinks = [
   /* Your Social Media Link */
   // github: "https://github.com/waqar-ahmed48",
-  // linkedin: "https://www.linkedin.com/in/muhammad-ahmed-89b611340",
-  // gmail: "muhammad.w.ahmed.48@gmail.com",
+  // linkedin: "https://www.linkedin.com/in/waqar-ahmed-3086a912/",
+  // gmail: "waqar.ahmed@gmail.com",
 
   {
     name: "Github",
@@ -44,13 +44,13 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/muhammad-ahmed-89b611340",
+    link: "https://www.linkedin.com/in/waqar-ahmed-3086a912/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
     name: "Gmail",
-    link: "mailto:muhammad.w.ahmed.48@gmail.com",
+    link: "mailto:waqar.ahmed@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
