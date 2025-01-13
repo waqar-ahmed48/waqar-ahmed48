@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://waqar-ahmed48.github.io/waqar-ahmed48/static/css/main.27be14fa.chunk.css",
-    "main.js": "https://waqar-ahmed48.github.io/waqar-ahmed48/static/js/main.77065010.chunk.js",
-    "main.js.map": "https://waqar-ahmed48.github.io/waqar-ahmed48/static/js/main.77065010.chunk.js.map",
+    "main.js": "https://waqar-ahmed48.github.io/waqar-ahmed48/static/js/main.88a79ab8.chunk.js",
+    "main.js.map": "https://waqar-ahmed48.github.io/waqar-ahmed48/static/js/main.88a79ab8.chunk.js.map",
     "runtime-main.js": "https://waqar-ahmed48.github.io/waqar-ahmed48/static/js/runtime-main.db16c4c1.js",
     "runtime-main.js.map": "https://waqar-ahmed48.github.io/waqar-ahmed48/static/js/runtime-main.db16c4c1.js.map",
     "static/js/2.9d218da2.chunk.js": "https://waqar-ahmed48.github.io/waqar-ahmed48/static/js/2.9d218da2.chunk.js",
     "static/js/2.9d218da2.chunk.js.map": "https://waqar-ahmed48.github.io/waqar-ahmed48/static/js/2.9d218da2.chunk.js.map",
     "index.html": "https://waqar-ahmed48.github.io/waqar-ahmed48/index.html",
-    "precache-manifest.4ddcbada28425b451c9282aa31be9c96.js": "https://waqar-ahmed48.github.io/waqar-ahmed48/precache-manifest.4ddcbada28425b451c9282aa31be9c96.js",
+    "precache-manifest.609d113df8af9211155bda8044739b85.js": "https://waqar-ahmed48.github.io/waqar-ahmed48/precache-manifest.609d113df8af9211155bda8044739b85.js",
     "service-worker.js": "https://waqar-ahmed48.github.io/waqar-ahmed48/service-worker.js",
     "static/css/main.27be14fa.chunk.css.map": "https://waqar-ahmed48.github.io/waqar-ahmed48/static/css/main.27be14fa.chunk.css.map",
     "static/media/index.css": "https://waqar-ahmed48.github.io/waqar-ahmed48/static/media/Montserrat-Regular.ee653992.ttf",
@@ -58,6 +58,6 @@
     "static/js/runtime-main.db16c4c1.js",
     "static/js/2.9d218da2.chunk.js",
     "static/css/main.27be14fa.chunk.css",
-    "static/js/main.77065010.chunk.js"
+    "static/js/main.88a79ab8.chunk.js"
   ]
 }
