@@ -68,14 +68,49 @@ const skills = {
       softwareSkills: [
         {
           skillName: "Micorservices Architecture",
-          fontAwesomeClassname: "logos-tensorflow",
+          fontAwesomeClassname: "carbon:microservices-1",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "go",
+          fontAwesomeClassname: "logos:go",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "docker",
+          fontAwesomeClassname: "logos:docker",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "GitHub Actions",
+          fontAwesomeClassname: "devicon:githubactions",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Linux",
+          fontAwesomeClassname: "devicon:linux",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Nginx",
+          fontAwesomeClassname: "devicon:nginx",
           style: {
             backgroundColor: "transparent",
           },
         },
         {
           skillName: "Observability",
-          fontAwesomeClassname: "simple-icons:keras",
+          fontAwesomeClassname: "oui-ws-observability",
           style: {
             backgroundColor: "white",
             color: "#D00000",
@@ -83,7 +118,7 @@ const skills = {
         },
         {
           skillName: "Kubernetes",
-          fontAwesomeClassname: "logos-pytorch",
+          fontAwesomeClassname: "devicon:kubernetes",
           style: {
             backgroundColor: "transparent",
           },
@@ -98,29 +133,56 @@ const skills = {
         },
         {
           skillName: "Istio",
-          fontAwesomeClassname: "simple-icons:sass",
+          fontAwesomeClassname: "simple-icons:istio",
           style: {
             color: "#CC6699",
           },
         },
         {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
+          skillName: "React",
+          fontAwesomeClassname: "devicon:react",
           style: {
-            color: "#CC6699",
+            color: "#61DAFB",
           },
         },
         {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
+          skillName: "Terraform",
+          fontAwesomeClassname: "devicon:terraform",
           style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
+            color: "#61DAFB",
           },
         },
         {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
+          skillName: "Jaeger",
+          fontAwesomeClassname: "devicon:jaegertracing",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
+          skillName: "Bash",
+          fontAwesomeClassname: "mdi:bash",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
+          skillName: "Powershell",
+          fontAwesomeClassname: "catppuccin:powershell",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
+          skillName: "Postgres",
+          fontAwesomeClassname: "devicon:postgresql",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
+          skillName: "Redis",
+          fontAwesomeClassname: "devicon:redis",
           style: {
             color: "#61DAFB",
           },
@@ -136,23 +198,29 @@ const skills = {
       ],
       softwareSkills: [
         {
+          skillName: "C++",
+          fontAwesomeClassname: "devicon:cplusplus",
+          style: {
+            color: "#CC6699",
+          },
+        },
+        {
           skillName: "Realtime applications",
-          fontAwesomeClassname: "simple-icons:sass",
+          fontAwesomeClassname: "file-icons:smartos",
           style: {
             color: "#CC6699",
           },
         },
         {
           skillName: "Digital Signal Processing",
-          fontAwesomeClassname: "simple-icons:javascript",
+          fontAwesomeClassname: "devicon:matlab",
           style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
+            backgroundColor: "transparent",
           },
         },
         {
           skillName: "Device Driver Stack",
-          fontAwesomeClassname: "simple-icons:react",
+          fontAwesomeClassname: "majesticons:usb-line",
           style: {
             color: "#61DAFB",
           },
@@ -234,7 +302,7 @@ const degrees = {
       duration: "1999 - 2002",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc. Additionally, I have done courses on Embedded Systems and Natural Language Processing.",
-        "⚡ Won SOFTEC 2000. First ever lower classman to win SOFTEC. Project: Multi-cast news platform.",
+        "⚡ Won SOFTEC 2000. First ever Sophmore to win the competition. Project: Multi-cast news platform.",
         ],
       website_link: "https://lhr.nu.edu.pk/",
     },
