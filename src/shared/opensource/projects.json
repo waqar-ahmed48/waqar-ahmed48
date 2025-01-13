@@ -9,16 +9,48 @@
       "isFork": false,
       "languages": [
         {
-          "name": "goLang",
-          "iconifyClass": "logos-python"
+          "name": "Microservice Architecture",
+          "iconifyClass": "carbon:microservices-1"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "go",
+          "iconifyClass": "logos:go"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "docker",
+          "iconifyClass": "logos:docker"
+        },
+        {
+          "name": "Kubernetes",
+          "iconifyClass": "devicon:kubernetes"
+        },
+        {
+          "name": "Istio",
+          "iconifyClass": "simple-icons:istio"
+        },
+        {
+          "name": "Open Tofu",
+          "iconifyClass": "vscode-icons:file-type-opentofu"
+        },
+        {
+          "name": "Jaeger",
+          "iconifyClass": "devicon:jaegertracing"
+        },
+        {
+          "name": "Postgres",
+          "iconifyClass": "devicon:postgresql"
+        },
+        {
+          "name": "Linux",
+          "iconifyClass": "devicon:linux"
+        },
+        {
+          "name": "Nginx",
+          "iconifyClass": "logos:nginx"
+        },
+        {
+          "name": "Open Telemetry",
+          "iconifyClass": "devicon:opentelemetry"
         }
       ]
     },
@@ -31,8 +63,52 @@
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Microservice Architecture",
+          "iconifyClass": "carbon:microservices-1"
+        },
+        {
+          "name": "go",
+          "iconifyClass": "logos:go"
+        },
+        {
+          "name": "docker",
+          "iconifyClass": "logos:docker"
+        },
+        {
+          "name": "Kubernetes",
+          "iconifyClass": "devicon:kubernetes"
+        },
+        {
+          "name": "Istio",
+          "iconifyClass": "simple-icons:istio"
+        },
+        {
+          "name": "Open Tofu",
+          "iconifyClass": "vscode-icons:file-type-opentofu"
+        },
+        {
+          "name": "Jaeger",
+          "iconifyClass": "devicon:jaegertracing"
+        },
+        {
+          "name": "Postgres",
+          "iconifyClass": "devicon:postgresql"
+        },
+        {
+          "name": "Redis",
+          "iconifyClass": "devicon:redis"
+        },
+        {
+          "name": "Linux",
+          "iconifyClass": "devicon:linux"
+        },
+        {
+          "name": "Nginx",
+          "iconifyClass": "logos:nginx"
+        },
+        {
+          "name": "Open Telemetry",
+          "iconifyClass": "devicon:opentelemetry"
         }
       ]
     },
@@ -49,8 +125,8 @@
           "iconifyClass": "logos-python"
         },
         {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "Docker",
+          "iconifyClass": "logos:docker"
         }
       ]
     },
@@ -64,7 +140,11 @@
       "languages": [
         {
           "name": "C",
-          "iconifyClass": "logos-C"
+          "iconifyClass": "arcticons:clanguage"
+        },
+        {
+          "name": "x86",
+          "iconifyClass": "arcticons:limbo-x86"
         }
       ]
     },

@@ -67,7 +67,7 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Micorservices Architecture",
+          skillName: "Micorservice Architecture",
           fontAwesomeClassname: "carbon:microservices-1",
           style: {
             backgroundColor: "transparent",
@@ -109,8 +109,8 @@ const skills = {
           },
         },
         {
-          skillName: "Observability",
-          fontAwesomeClassname: "oui-ws-observability",
+          skillName: "Open Telemetry",
+          fontAwesomeClassname: "devicon:opentelemetry",
           style: {
             backgroundColor: "white",
             color: "#D00000",
@@ -242,46 +242,6 @@ const competitiveSites = {
       profileLink: "https://leetcode.com/u/waqarahmed48/",
     },
     {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      profileLink: "https://www.hackerrank.com/tbd",
-    },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/tbd",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/tbd",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/tbd",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/tbd",
-    },
-    {
       siteName: "TryHackMe",
       iconifyClassname: "simple-icons:tryhackme",
       style: {
@@ -308,24 +268,6 @@ const degrees = {
     },
   ],
 };
-
-/*const degrees = {
-  degrees: [
-    {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
-      descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
-      ],
-      website_link: "http://iiitk.ac.in",
-    }
-  ],
-};*/
 
 const certifications = {
   certifications: [
