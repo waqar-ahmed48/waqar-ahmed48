@@ -308,8 +308,8 @@ const experience = {
           title: "Sr. Product Manager",
           company: "NextLabs Inc.",
           company_url: "https://www.nextlabs.com/",
-          logo_path: "nextlabs_logo.svg",
-          duration: "Aug 2024 - To Date",
+          logo_path: "nextlabs_logo.jpeg",
+          duration: "August 2024 - To Date",
           location: "Remote - Atlanta, GA, USA",
           description:
             "Managing Data Access Enforcers (DAE) product-line for Data Centric Security Solutions implementing Attribute based access control (ABAC)",
@@ -320,8 +320,8 @@ const experience = {
           company: "Thales Inc.",
           company_url: "https://cpl.thalesgroup.com/",
           logo_path: "thales_logo.svg",
-          duration: "June 2022 - Aug 2024",
-          location: "Atlanta, GA, USA",
+          duration: "January 2022 - August 2024",
+          location: "Remote - Atlanta, GA, USA",
           description:
             "Managed cloud native data security platform - focusing on data at rest protection",
           color: "#000000",
@@ -389,7 +389,7 @@ const experience = {
           duration: "January 2003 - Feb 2004",
           location: "Islamabad, Pakistan",
           description:
-            "Designed and developed embedded solution to increase Voice Communication capacity of T1 Line by 32 times.",
+            "Digital Signal Processor Texas Instruments TMS320C6711 implementation and optimization of speech compression algorithms (G.723.1). PC Based application development for in-field programmability of embedded products. Multi-speech E1 channel compression module. It compressed n number of input speech channels to n/8 compressed channels. Designed to work on RF links and Ericsson’s Exchanges.",
           color: "#000000",
         },
       ],
