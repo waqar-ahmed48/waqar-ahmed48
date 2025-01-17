@@ -79,18 +79,6 @@
           "iconifyClass": "devicon:kubernetes"
         },
         {
-          "name": "Istio",
-          "iconifyClass": "simple-icons:istio"
-        },
-        {
-          "name": "Open Tofu",
-          "iconifyClass": "vscode-icons:file-type-opentofu"
-        },
-        {
-          "name": "Jaeger",
-          "iconifyClass": "devicon:jaegertracing"
-        },
-        {
           "name": "Postgres",
           "iconifyClass": "devicon:postgresql"
         },
@@ -101,14 +89,6 @@
         {
           "name": "Linux",
           "iconifyClass": "devicon:linux"
-        },
-        {
-          "name": "Nginx",
-          "iconifyClass": "logos:nginx"
-        },
-        {
-          "name": "Open Telemetry",
-          "iconifyClass": "devicon:opentelemetry"
         }
       ]
     },
