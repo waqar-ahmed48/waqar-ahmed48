@@ -11,7 +11,7 @@ const seo = {
   description:
     "Passionnate about delivering innovative, cloud-based solutions that align technical and business goals for impactful results",
   og: {
-    title: "Muhammad W. Ahmed Portfolio",
+    title: "Muhammad Ahmed Portfolio",
     type: "website",
     url: "https://waqar-ahmed48.github.io/portfolio/",
   },
@@ -19,8 +19,8 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Muhammad W. Ahmed",
-  logo_name: "Muhammad W. Ahmed",
+  title: "Muhammad Ahmed",
+  logo_name: "Muhammad Ahmed",
   nickname: "Muhammad",
   subTitle:
     "Passionate about delivering innovative, cloud-based solutions that align technical and business goals for impactful results",
@@ -44,7 +44,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/waqar-ahmed-3086a912/",
+    link: "https://www.linkedin.com/in/muhammad-ahmed-89b611340/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -305,11 +305,22 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Sr. Product Manager",
+          company: "NextLabs Inc.",
+          company_url: "https://www.nextlabs.com/",
+          logo_path: "nextlabs_logo.svg",
+          duration: "Aug 2024 - To Date",
+          location: "Remote - Atlanta, GA, USA",
+          description:
+            "Managing Data Access Enforcers (DAE) product-line for Data Centric Security Solutions implementing Attribute based access control (ABAC)",
+          color: "#000000",
+        },
+        {
           title: "Product Manager",
           company: "Thales Inc.",
           company_url: "https://cpl.thalesgroup.com/",
           logo_path: "thales_logo.svg",
-          duration: "June 2022 - Present",
+          duration: "June 2022 - Aug 2024",
           location: "Atlanta, GA, USA",
           description:
             "Managed cloud native data security platform - focusing on data at rest protection",
